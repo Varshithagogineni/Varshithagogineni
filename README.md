@@ -1,5 +1,5 @@
-<h1 align="center">Hi üëã, I'm Varshitha Gogineni</h1>
-<h3 align="center">AI Engineer ‚Äî Applied AI ¬∑ LLM ¬∑ Real-Time Voice Systems</h3>
+<h1 align="center">Hi 👋, I'm Varshitha Gogineni</h1>
+<h3 align="center">AI Engineer — Applied AI · LLM · Real-Time Voice Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D8DF1&center=true&vCenter=true&width=620&lines=Building+production+LLM+applications;Agentic+AI+%26+self-healing+automation;Real-time+voice+assistants;OpenAI+%E2%80%A2+Gemini+%E2%80%A2+LangChain+%E2%80%A2+MCP" alt="Typing SVG" />
@@ -13,20 +13,20 @@
 
 ---
 
-### üë©‚Äçüíª About Me
+### 👩‍💻 About Me
 
-AI Engineer specializing in **production LLM applications, agentic AI, and real-time voice systems**. I ship customer-facing AI ‚Äî turning OpenAI/Gemini APIs, LangChain, RAG, function calling, and the Model Context Protocol into reliable, low-latency products.
+AI Engineer specializing in **production LLM applications, agentic AI, and real-time voice systems**. I ship customer-facing AI — turning OpenAI/Gemini APIs, LangChain, RAG, function calling, and the Model Context Protocol into reliable, low-latency products.
 
-- ü§ñ Built a **self-healing browser-automation agent** ‚Äî completes an 8-page insurance quote end-to-end with **zero carrier-specific code** (live run: $539 quote, 0 errors, ~9 min)
-- üéôÔ∏è Shipped **LLM voice assistants** automating **70‚Äì80%** of inbound call workflows and cutting invalid tool execution by **90%**
-- üéì M.S. in Information Science @ **University of North Texas** ‚Äî GPA **4.00 / 4.00**
-- üèÜ **Top 14 / 32** at Dallas AI 2025 ¬∑ Built at the **Google Gemini √ó Pipecat Hackathon @ Y Combinator** (SF Tech Week 2025)
-- üí¨ Ask me about **agent reliability, MCP, and latency/cost optimization** for deployed AI
-- üì´ **varshithagogineni007@gmail.com** ¬∑ open to **Applied AI / LLM Engineer** roles
+- 🤖 Built a **self-healing browser-automation agent** — completes an 8-page insurance quote end-to-end with **zero carrier-specific code** (live run: $539 quote, 0 errors, ~9 min)
+- 🎙️ Shipped **LLM voice assistants** automating **70–80%** of inbound call workflows and cutting invalid tool execution by **90%**
+- 🎓 M.S. in Information Science @ **University of North Texas** — GPA **4.00 / 4.00**
+- 🏆 **Top 14 / 32** at Dallas AI 2025 · Built at the **Google Gemini × Pipecat Hackathon @ Y Combinator** (SF Tech Week 2025)
+- 💬 Ask me about **agent reliability, MCP, and latency/cost optimization** for deployed AI
+- 📫 **varshithagogineni007@gmail.com** · open to **Applied AI / LLM Engineer** roles
 
 ---
 
-### üõ†Ô∏è Tech Stack
+### 🛠️ Tech Stack
 
 **AI & LLM**
 
@@ -64,17 +64,17 @@ AI Engineer specializing in **production LLM applications, agentic AI, and real-
 
 ---
 
-### üåü Featured Projects
+### 🌟 Featured Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **Self-Healing Browser Automation Agent** | Carrier-agnostic agentic loop that completes an 8-page workers' comp quote end-to-end with zero carrier-specific code; auto-recovers from tool failures by reinjecting live page snapshots. Live run: $539 quote, 0 errors, ~9 min. | `Playwright MCP` ¬∑ `OpenAI Function Calling` ¬∑ `TypeScript` ¬∑ `Node.js` |
-| **CMHT Voice Agent** | Real-time speech-to-speech assistant for UNT helping students & faculty locate rooms and get front-desk help, with session memory and dynamic tool routing. | `Gemini APIs` ¬∑ `LangChain` ¬∑ `Python` ¬∑ `RAG` |
-| **VoiceFit ‚Äî AI Voice Fitness Assistant** ¬∑ [üîó Live](https://voicefit.vercel.app) | Hands-free voice fitness companion; **Top 14 / 32** at Dallas AI 2025. | `Whisper STT` ¬∑ `React` ¬∑ `n8n` ¬∑ `OpenAI` ¬∑ `Supabase` |
+| **Self-Healing Browser Automation Agent** | Carrier-agnostic agentic loop that completes an 8-page workers' comp quote end-to-end with zero carrier-specific code; auto-recovers from tool failures by reinjecting live page snapshots. Live run: $539 quote, 0 errors, ~9 min. | `Playwright MCP` · `OpenAI Function Calling` · `TypeScript` · `Node.js` |
+| **CMHT Voice Agent** | Real-time speech-to-speech assistant for UNT helping students & faculty locate rooms and get front-desk help, with session memory and dynamic tool routing. | `Gemini APIs` · `LangChain` · `Python` · `RAG` |
+| **VoiceFit — AI Voice Fitness Assistant** · [🔗 Live](https://voicefit.vercel.app) | Hands-free voice fitness companion; **Top 14 / 32** at Dallas AI 2025. | `Whisper STT` · `React` · `n8n` · `OpenAI` · `Supabase` |
 
 ---
 
-### üìä GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Varshithagogineni&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=9D8DF1&text_color=6B6B6B&icon_color=8FCFB0" />
