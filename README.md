@@ -84,6 +84,5 @@ AI Engineer specializing in **production LLM applications, agentic AI, and real-
 ---
 
 <p align="center">
-  <i>Let's build something intelligent together.</i><br/>
-  <img src="https://komarev.com/ghpvc/?username=Varshithagogineni&label=Profile%20views&color=9D8DF1&style=flat" alt="profile views" />
+  <i>Let's build something intelligent together.</i>
 </p>
